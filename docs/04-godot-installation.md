@@ -4,19 +4,25 @@
 
 ---
 
-## Download
+# Download
 
-### Official Website
+## Official Website
 
-https://godotengine.org/download/windows/ :contentReference[oaicite:0]{index=0}
+https://godotengine.org/download/windows/
 
-### Direct Download (Windows 64-bit)
+---
+
+## Windows (64-bit)
 
 https://downloads.godotengine.org/?version=4.7.1&flavor=stable&slug=win64.exe.zip&platform=windows.64
 
-> Download the **Standard** version unless you plan to use **C#**, in which case download the **.NET** version. :contentReference[oaicite:1]{index=1}
-
 ---
+
+## Linux (64-bit)
+
+https://downloads.godotengine.org/?version=4.7.1&flavor=stable&slug=linux.x86_64.zip&platform=linux.64
+
+> Download the **Standard** version unless you plan to use **C#**, in which case download the **.NET** version. The standard build is recommended for GDScript development. :contentReference[oaicite:0]{index=0}
 
 ## Installation
 

@@ -22,18 +22,18 @@
 ## Examples
 
 ```
-feature/dhruv
-feature/rahul
+feature/Dhruv
+feature/Kshitiz
 
-bugfix/amit
+bugfix/Saksham
 
 docs/dhruv
 
-experiment/rahul
+experiment/Arihant
 
-refactor/dhruv
+refactor/Yash
 
-hotfix/amit
+hotfix/Dev
 ```
 
 ## Rules

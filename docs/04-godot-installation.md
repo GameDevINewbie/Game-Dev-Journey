@@ -4,69 +4,57 @@
 
 ---
 
-# System Requirements
+## Download
 
-- Windows 10/11 (64-bit)
-- 4 GB RAM (8 GB+ Recommended)
-- Vulkan-compatible GPU (OpenGL supported via Compatibility renderer)
+### Official Website
 
----
+https://godotengine.org/download/windows/ :contentReference[oaicite:0]{index=0}
 
-# Download
+### Direct Download (Windows 64-bit)
 
-## Official Download Page
+https://downloads.godotengine.org/?version=4.7.1&flavor=stable&slug=win64.exe.zip&platform=windows.64
 
-:contentReference[oaicite:0]{index=0}
-
-## Direct Download (Windows 64-bit)
-
-:contentReference[oaicite:1]{index=1}
-
-> Download the **Standard** version. Use the **.NET** version only if you plan to develop with C#. :contentReference[oaicite:2]{index=2}
+> Download the **Standard** version unless you plan to use **C#**, in which case download the **.NET** version. :contentReference[oaicite:1]{index=1}
 
 ---
 
-# Installation
+## Installation
 
 1. Download the ZIP file.
-2. Extract it to a folder (e.g. `C:\Tools\Godot`).
+2. Extract it.
 3. Open the extracted folder.
 4. Run `Godot_v4.7.1-stable_win64.exe`.
 5. (Optional) Create a desktop shortcut.
 
-> Godot is portable and does not require a traditional installer. :contentReference[oaicite:3]{index=3}
+---
+
+## First Project
+
+1. Launch Godot.
+2. Click **Create**.
+3. Enter a project name.
+4. Choose a project folder.
+5. Select **Forward+** (recommended).
+6. Click **Create & Edit**.
 
 ---
 
-# First Launch
+## Export Templates
 
-1. Click **Create**.
-2. Choose a project name.
-3. Select a project folder.
-4. Choose **Forward+** (recommended) or **Compatibility** for older hardware.
-5. Click **Create & Edit**.
+Go to:
 
----
-
-# Export Templates
-
-To export games later:
-
-**Editor → Manage Export Templates → Download & Install**
+```
+Editor → Manage Export Templates → Download & Install
+```
 
 ---
 
-# Verify Installation
+## Verify Installation
 
-- Launch Godot.
 - Create a sample project.
-- Press **F5** to run it.
-
-If the project runs successfully, your installation is complete.
+- Press **F5**.
+- If the project runs successfully, the installation is complete.
 
 ---
 
-# Recommended
-
-- Use the latest **Stable Standard** version.
-- Update to newer stable releases as they become available. :contentReference[oaicite:4]{index=4}
+> **Recommendation:** Use the latest **Stable Standard** version for GDScript development. Use the **.NET** version only if you intend to write games in C#. :contentReference[oaicite:2]{index=2}
